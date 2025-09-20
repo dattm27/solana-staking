@@ -12,3 +12,45 @@ delegate: shfttEZqZQTYtvAPkScZVh98BSVZYpUvpBQM5ks3LGq
 
 
 txId: 4ipem1kVx7rniUgrKMLrbNd5nSBR6mYEGWErRERwXYX8YYrBitjzMBjizxBmtT8Nqu666XXAspTjNjVzcZqUWHh8
+
+
+
+txId: oh6zLZ3CZbbCcqJcEm5KXo9QphFbi7Y8BK2U2DbHTKjg6uWnTUntt43UuscKMyqp7ToRstZCBCrZUKSPQBDSz75
+
+
+
+Stake account created. Tx Id:  3EyeiwNRdRRqiya8h1tSCTXZA7Q7vPbjqTLmroyNQrAywbRcqz7CZiHwtbCfmGy5ooCsXjs2x4bnoorCZj5eV689
+Stake account balance: 0.50228288
+Stake account status initialized
+Stake account delegated to shfttEZqZQTYtvAPkScZVh98BSVZYpUvpBQM5ks3LGq, TxId: 2jrfy577hSJR9HWMu8nmeWRCotXaghZa1NoKqN8iZSZUSveY79YeoYoR9xBR9eZptGWSDXM63nvjE8JXkGiT65UC
+Stake account status delegated
+Stake account deactivated. TxId:  2qRBMmi1j1kG2AzBxP1kES1JCntwAGtVpLeZqoEsUvFoLSHMTh3gLG7tc8y2PF6KhtfENzkd8nFuZhKFJf7RgVfg
+Stake account status delegated
+
+
+DY58bgamdUCyRLJwT3Dix4vGVVDhPVq6NNKigyeArYfA
+Stake account created. Tx Id:  4LFqQVSFWdfsXeyAbWJPTqx6s8Fddn8YPpjjvmxgWZHsFVtnqsXrEye1Hyaai1ex9BAtqWN7T853SFzdotuNWEYT
+Stake account balance: 0.50228288
+Stake account status initialized
+Stake account delegated to shfttEZqZQTYtvAPkScZVh98BSVZYpUvpBQM5ks3LGq, TxId: 4RUVypqrj4NHSGSUnvDJdbqEza9ryuUgdy3AsKdGCqWFStF2pWQcHoXvhPA71YRRF51syqZcu2g1CpmiioTs8tLM
+Stake account status delegated
+Stake account deactivated. TxId:  5K5omHs2wgSXjgHeBDpq2gQwURzrpWeeE5QF3axxdtti3Yp9DNqXBTjwPLs72KLnFyxHNmsEmrUkX5ymuQnGALzy
+Stake account status delegated
+
+
+DY58bgamdUCyRLJwT3Dix4vGVVDhPVq6NNKigyeArYfA
+Stake account created. Tx Id:  3h6ygbTCEdSFmpcpWWv73K9zVWDEjhhZdmau75Fmxo3LiuuKPm4vHXF93jGguN6c59RHg3H3g6GXdd3fK658MGGw
+Stake account balance: 0.50228288
+Stake account status initialized
+Stake account delegated to shfttEZqZQTYtvAPkScZVh98BSVZYpUvpBQM5ks3LGq, TxId: 2GoTN1AGTmQDeRouuXw8L4sRu9qAHoxhZi4aVAiPHrJV9K6GcW7FJBLJkfsqeuqpyrGQ8gbYoYt6KNSh5egwaNDp
+Stake account status delegated
+Stake account deactivated. TxId:  d75cDSHtp3anNZczFMq9aJYry2JGyBTD4mtqLDZLs7tL6WxRCVBz36179NXciodg5oQMjcf8TsfxxCKYwcrpoQS
+Stake account status delegated
+
+
+Stake account created. Tx Id:  3husAGjqq8JqDc1CwbVP1Ybb9gKBEmUmjGHsqXnMqFqqXJj5e6A19bAtLjieMrVDtZwXK2wjoSsnrc7kj6EfMgxs
+Stake account balance: 0.50228288
+Stake account status initialized
+Stake account delegated to shfttEZqZQTYtvAPkScZVh98BSVZYpUvpBQM5ks3LGq, TxId: 3crxzT97mW1axZP1NEjbYNVEFb9nGVPg4MoQLXbbh7MELREJ7mPgzNtvX6f2e6MA3k58ZAocad1vrY19Mc2p1sCw
+Stake account status delegated
+Stake account deactivated. TxId:  s8FFfTnhUTtho8ghZ6hVPWTT28qUyozeJEs8cvYW9fSywzSLcZrjug1utHgvBknTXwTaiMm5rZE7kriLuuUcaQ7
